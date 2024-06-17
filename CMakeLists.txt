@@ -61,6 +61,3 @@ install(TARGETS ${PROJECT_NAME}
 install(FILES include/serial/serial.h include/serial/v8stdint.h
   DESTINATION ${CATKIN_GLOBAL_INCLUDE_DESTINATION}/serial)
 
-
-add_subdirectory(tests)
-
