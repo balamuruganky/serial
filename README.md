@@ -20,7 +20,6 @@ Required:
 * [cmake](http://www.cmake.org) - buildsystem
 * [Python](http://www.python.org) - scripting language
   * [empy](http://www.alcyone.com/pyos/empy/) - Python templating library
-  * [catkin_pkg](http://pypi.python.org/pypi/catkin_pkg/) - Runtime Python library for catkin
 
 Optional (for documentation):
 * [Doxygen](http://www.doxygen.org/) - Documentation generation tool
